@@ -6,4 +6,5 @@ print("Ok, lets cook " + food + "!")
 print("")
 time.sleep(sleeptime)
 print(food + " finally cooked!")
+print("but you cant eat " + food
 delay = input("Press ENTER to exit...")
