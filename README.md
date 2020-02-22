@@ -1,3 +1,4 @@
 # Cooker Project
- I made this project just for fun. Enjoy!
+ Download python from https://www.python.org to run 
+ this program. Enjoy!
  
